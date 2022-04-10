@@ -74,7 +74,7 @@ body{
     background-color: var(--Moderate-violet);
     background-image: url('../images/bg-pattern-quotation.svg');
     background-repeat: no-repeat;
-    background-position: 90% 0;
+    background-position: 80% 0;
 }
 .card-2{
     grid-column: 3/4;
